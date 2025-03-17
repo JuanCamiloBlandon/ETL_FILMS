@@ -16,7 +16,7 @@ Asegúrate de tener instalado lo siguiente en tu máquina:
 1.  **Clona el repositorio:**
 
     ```
-    git clone <URL_del_repositorio>
+    git clone https://github.com/JuanCamiloBlandon/ETL_FILMS.git
     ```
 
 2.  **Navega a la carpeta del proyecto:**
