@@ -91,4 +91,5 @@ Asegúrate de tener instalado lo siguiente en tu máquina:
     * Revisa la salida en la consola.
     * Consulta el archivo `etl_films.log` en la carpeta `Logs`.
 
-## Diagrama ER
+## Diagrama Entidad Relación del proyecto
+![Modelo Entidad Relación](Imagenes/MER.png)
