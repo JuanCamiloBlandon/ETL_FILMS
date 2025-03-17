@@ -66,4 +66,4 @@ El análisis exploratorio de datos se realizó durante la fase de transformació
 
 ## Conclusiones
 
-La aplicación ETL implementada permite extraer, transformar y cargar datos de películas de manera eficiente y confiable. El módulos de observabilidad (logging) facilitan el monitoreo y la resolución de posibles problemas futuros. El análisis exploratorio de datos permitió identificar y corregir problemas en los datos de origen, garantizando la integridad de los mismos y Las preguntas de negocio planteadas demuestran el potencial que pueden tener los datos ya procesados para generar información valiosa para la toma de decisiones.
+La aplicación ETL implementada permite extraer, transformar y cargar datos de películas de manera eficiente y confiable. El módulos de observabilidad (logging) facilitan el monitoreo y la resolución de posibles problemas futuros. El análisis exploratorio de datos permitió identificar y corregir problemas en los datos de origen, garantizando la integridad de los mismos y las preguntas de negocio planteadas demuestran el potencial que pueden tener los datos ya procesados para generar información valiosa para la toma de decisiones.
