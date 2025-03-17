@@ -15,7 +15,9 @@ def extract_excel_data(filepath):
         return excel_data
     except FileNotFoundError:
         logging.error(f"Error: El archivo '{filepath}' no fue encontrado.")
+        print(f"Error: El archivo '{filepath}' no fue encontrado.")
         return None
     except Exception as e:
         logging.error(f"Error al leer el archivo Excel: {e}")
+        print(f"Error al leer el archivo Excel: {e}")
         return None
