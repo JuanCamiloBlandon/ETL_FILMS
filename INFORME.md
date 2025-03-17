@@ -58,7 +58,7 @@ El análisis exploratorio de datos se realizó durante la fase de transformació
     * Query: ![Query 4](Imagenes/image-5.png)
     * Resultado: ![Resultado 4](Imagenes/image-6.png)
 
-5.  **¿Cuál es el top 3 de las películas más rentadas de todo el catálogo??**
+5.  **¿Cuál es el top 3 de las películas más rentadas de todo el catálogo?**
     * Conocer cuales son las peliculas mas rentadas de toda la empresa pueda ayudar a encontrar tendencias en los gustos de los clientes, lo que ayuda a optimizar mas el inventario, realizar campañas de marketing y maxificar las ventas.
     *Query: ![Query 5](Imagenes/image-7.png)
     *Resultado: ![Resultado 5](Imagenes/image-8.png)
