@@ -38,7 +38,7 @@ El análisis exploratorio de datos se realizó durante la fase de transformació
 
 ## Preguntas de Negocio y Respuestas
 
-1.  **¿¿Cuál es la relación entre la duración de las películas, su clasificación (rating) y el número de rentas, y cómo podemos utilizar esta información para optimizar nuestro inventario y estrategias de marketing??**
+1.  **¿Cuál es la relación entre la duración de las películas, su clasificación (rating) y el número de rentas, y cómo podemos utilizar esta información para optimizar nuestro inventario y estrategias de marketing?**
     * Conocer esta realación puede permitir identificar qué combinaciones de duración y clasificación son más populares entre los clientes, lo que ayuda a decidir qué películas adquirir y mantener en el inventario, adicional mejora la toma de decisiones estratégicas sobre la adquisición de películas, la fijación de precios y la planificación de campañas de marketing.
     * Query: ![Query 1](Imagenes/image-9.png)
     * Resultado: ![Resultado 1](Imagenes/image-10.png)
