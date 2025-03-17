@@ -16,9 +16,9 @@ def run_etl():
         extracted_data = extract_excel_data(excel_file)
         if extracted_data:
             transformed_data = transform_data(extracted_data)
-            load_data_to_mysql(transformed_data)
-            logging.info("ETL completado con éxito.")
-            print("ETL completado con éxito.")
+            if load_data_to_mysql(transformed_data):
+                logging.info("ETL completado con éxito.")
+                print("ETL completado con éxito.")
         else:
             logging.error("Error en la extracción de datos. El ETL no se ejecutó.")
             print("Error: Error en la extracción de datos. El ETL no se ejecutó.")
