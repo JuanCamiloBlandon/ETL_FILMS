@@ -4,7 +4,7 @@ from .carga_datos import load_data_to_mysql
 import logging
 import os
 
-log_file = os.path.join("Logs", "orquestador.log")
+log_file = os.path.join("Logs", "etl_films.log")
 logging.basicConfig(filename=log_file, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 def run_etl():
